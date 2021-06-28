@@ -58,4 +58,6 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<div align="center">
+<img width="100%" height = "250px" src="https://github.com/l1fsec/pliska.webimage.cz/blob/master/images/banner.jpg" alt="cover" />
+</div>
