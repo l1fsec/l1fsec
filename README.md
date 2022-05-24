@@ -25,10 +25,9 @@ I'm student at one Czech Republic's School. I enjoy playing videogames like Team
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [my website](https://github.com/l1fsec/pliska.webimage.cz)  
+- 🔭 I’m currently working on [chat app](https://github.com/l1fsec/vortex-chat-app)  
   
-
-- 🐍 I'm currently learning Python  
+- ♋ I'm currently learning React
 
 
 </td><td valign="top" width="50%">
