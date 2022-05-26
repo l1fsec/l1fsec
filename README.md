@@ -16,7 +16,6 @@
 
 
 ### Glad to see you here!  
-I'm student at one Czech Republic's School. I enjoy playing videogames like Team Fortress 2 and composing music. 😄  
   
 
 <br/>  
